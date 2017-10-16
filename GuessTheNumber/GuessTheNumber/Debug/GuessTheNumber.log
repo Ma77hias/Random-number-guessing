@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\matthias\documents\visual studio 2017\projects\guessthenumber\guessthenumber\main.c(19): warning C4244: "Funktion": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  GuessTheNumber.vcxproj -> c:\users\matthias\documents\visual studio 2017\Projects\GuessTheNumber\Debug\GuessTheNumber.exe
+  GuessTheNumber.vcxproj -> c:\users\matthias\documents\visual studio 2017\Projects\GuessTheNumber\Debug\GuessTheNumber.pdb (Partial PDB)
