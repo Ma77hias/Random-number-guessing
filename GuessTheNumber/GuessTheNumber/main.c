@@ -1,3 +1,5 @@
+//created by Ma77hias
+
 #include<stdio.h>
 #include<stdlib.h>
 #include <time.h>
